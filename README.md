@@ -1,2 +1,5 @@
 # Translation_Projects_Divya
-Personal translation projects in Japanese, English, Chinese, Marathi, and German for showcasing practical language skills for professional translation roles.
+This repository contains samples of my translation work across multiple languages, including Japanese, Chinese, Marathi, German, and English. These projects showcase my language skills, attention to cultural context, and ability to handle real-world translation tasks.
+
+## Notes
+All projects are academic or self-initiated samples and intended for portfolio purposes only.
